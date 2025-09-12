@@ -1,2 +1,2 @@
 # 4GW24CI003
-projeacts and assignments
+projects and assignments
