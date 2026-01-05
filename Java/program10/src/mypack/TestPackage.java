@@ -1,0 +1,12 @@
+package mypack;
+
+
+public class TestPackage {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Message msg = new Message();
+		msg.display();
+	}
+
+}
