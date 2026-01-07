@@ -50,7 +50,7 @@ java_assisgnment_lab_book_assignment/
 
 1. **Clone or Copy the Project**
    ```bash
-   git clone https://github.com/your-username/lab-book-automation.git
+   git clone https://github.com/anjaliajithofficial-dev/4GW24CI003.git
    cd lab-book-automation
    ```
 
