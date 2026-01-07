@@ -225,6 +225,3 @@ Anjali Ajith    4GW24CI026      12          11:00:22        15 min (900 sec)
 --------------------------------------------------------------------------------
 Total Active Systems Occupied: 2
 ```
-
-
-*Made with ❤️ for automating lab management*
