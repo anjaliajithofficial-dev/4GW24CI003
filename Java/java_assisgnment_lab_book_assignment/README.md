@@ -24,7 +24,10 @@ This project demonstrates practical use of **object-oriented programming**, **co
   Simple, interactive, menu-driven navigation for students and admins.
 
 ***
-
+👥 Team Members
+Anjali Ajith - 4GW24CI003
+Meghana M
+***
 ## 🧩 Project Structure
 
 ```
