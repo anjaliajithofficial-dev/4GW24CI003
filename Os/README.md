@@ -26,7 +26,7 @@ Perfect for **Operating Systems coursework** on process synchronization and dead
   Clear console messages showing resource acquisition sequence and deadlock state.
 
 ***
-👥 Team Members
+**👥 Team Members**
 
 Anjali Ajith - 4GW24CI003
 
