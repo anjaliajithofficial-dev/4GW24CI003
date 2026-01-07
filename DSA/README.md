@@ -4,8 +4,8 @@ An automated student lab entry and exit tracking system implemented in C using l
 
 ## 👥 Team Members
 
-- **Meghana M** - 4GW24CI025
-- **Anjali Ajith**
+- **Meghana M** 
+- **Anjali Ajith**-4GW24CI003
 
 ## 📋 Table of Contents
 
@@ -105,8 +105,8 @@ struct Student {
 
 1. **Clone or download the source code**
 ```bash
-git clone https://github.com/meghanamurali10-crypto/4GW24CI025.git
-cd 4GW24CI025/LabBookSystem
+git clone https://github.com/anjaliajithofficial-dev/4GW24CI003.git
+cd 4GW24CI003/LabBookSystem
 ```
 
 2. **Compile the program**
@@ -115,13 +115,6 @@ gcc lab_book_system.c -o lab_book
 ```
 
 3. **Run the executable**
-
-On Linux/Mac:
-```bash
-./lab_book
-```
-
-On Windows:
 ```bash
 lab_book.exe
 ```
